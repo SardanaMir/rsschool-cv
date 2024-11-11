@@ -1,0 +1,31 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+.container {
+  width: 750px;
+  display: block;
+  margin: 0 auto;
+}
+.contact {
+  text-align: center;
+}
+.name {
+  text-align: center;
+}
+.role {
+  text-align: center;
+}
+.about {
+  text-align: center;
+}
+.subtitle {
+  font-size: 20px;
+  font-weight: 700;
+}
+.project {
+  font-weight: 700;
+  text-align: center;
+}
+p span {
+  font-weight: 700;
+}
